@@ -1,11 +1,11 @@
-class Main {
+class Number {
   public static void main(String[] args) {
-    int number=5;
-        if(number > 0)
+     int a=5;
+        if(a > 0)
         {
             System.out.println("Positive");
         }
-        else if(number < 0)
+        else if(a < 0)
         {
             System.out.println("Negative");
         }
