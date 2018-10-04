@@ -1,4 +1,4 @@
-class Vowel_consonant{
+class Vowelorconsonant{
   public static void main(String[] args){
         char ch='s';
        switch(ch)
