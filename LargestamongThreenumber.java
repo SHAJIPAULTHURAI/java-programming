@@ -1,6 +1,6 @@
 import java.util.Scanner;
 Class LargestamongThreenumber {
-public static void main(String arg[]) {
+public static void main(String[] arg) {
     int a,b,c;
          System.out.println("Enter three numbers");
     Scanner in=new Scanner(System.in);
