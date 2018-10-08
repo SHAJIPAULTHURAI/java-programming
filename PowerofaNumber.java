@@ -15,6 +15,6 @@ exponent=s.nextInt();
             --exponent;
         }
 
-        System.out.println("Answer = " + result);
+        System.out.println(result);
     }
 }
