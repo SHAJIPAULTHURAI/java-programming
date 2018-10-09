@@ -15,9 +15,9 @@ class Prime_Not {
             }
         }
         if (!flag)
-            System.out.println(" is a prime number.");
+            System.out.println("Yes");
         else
-            System.out.println(" is not a prime number.");
+            System.out.println("No");
     }
 }
   
