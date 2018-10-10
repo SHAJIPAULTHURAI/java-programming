@@ -3,7 +3,7 @@ import java.util.Scanner;
    public static void main(String args[]) {
       int n, sum = 0, temp, remainder, digits = 0;
       Scanner in = new Scanner(System.in);
-      System.out.println(" ");      
+      System.out.print(" ");      
       n = in.nextInt();
       
       temp = n;
@@ -22,9 +22,9 @@ import java.util.Scanner;
       }
  
       if (n == sum)
-         System.out.println("yes");
+         System.out.print("yes");
       else
-         System.out.println("no");        
+         System.out.print("no");        
    }
    
    static int power(int n, int r) {
